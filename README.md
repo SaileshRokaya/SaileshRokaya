@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGOAzcqy0t7yg/profile-displaybackgroundimage-shrink_350_1400/0/1609745492871?e=1653523200&v=beta&t=AMCsl2p0ZRd7YnZr7DPnIVL6TcRhbA3DL5sGarnOJ9s)](http://www.saileshrokaya.com.np/)
 <h1 align="center">Hi 👋, I'm Sailesh Rokaya</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
-<img align="right" alt="Coding" width="800" height="500" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saileshrokaya&label=Profile%20views&color=0e75b6&style=flat" alt="saileshrokaya" /> </p>
 
