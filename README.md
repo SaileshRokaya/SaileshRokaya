@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sailesh Rokaya</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+<img align="center" alt="Coding" width="400" src="https://doc-0c-4g-docs.googleusercontent.com/docs/securesc/e2u5f95km09lm0b2nhqbsr5ta9qerd94/6uqql3tqbgrmo8g6mj5nr9kd8n8nli27/1647867300000/06695752505544371931/05842312852694481996/1qH4TlxFq7bYhhAh2366f7JR1QSA3FUON?ax=ACxEAsapOFGGAYYlbRmrOW_R0c6WOkPM869IKzOb3JTAmJp9dBKZN9zj1G5BKq6SWiQ43wYLpr0n8IP9FxPzOHtPn2-jjqNNvgtI9i8dZcrH9KcyZuvsdZtyR9wmFiheCNjnvcNSaKwhIoCNmOXK3ywb7fG1Zn3wmvAvRVcBvLhAn7ty2IzEfqfDgh_39rkqkDstFetJzI_lbSrzXD3jqWOgzYusaZLaMB8Nm8cdrxoEBJRfH8EZcqU1CvqfMjvX83QBn_ZPfBD6t9oFFVyRm3tCNZu7yKB3Hmgem_RNGiYSyJ3mAP4Yu7Wio-eNDRb6ZZOE_wadIucbgUBBDy9S37w3mNENnGUlUZm_4rliCgLAF71EZNXyKVRbqBjjcd_LVCIXqdR6yFHmFawYtd74DHJwZRp6Y0iDoiMjKwBGlEOYJ-i_GjIIVioxu8Z_bOQrClPkU6CFuh4vJZfoSrC7PMJwIe2Sqmt0_hfoLwAYNtwNDNZYWrcBOh1oB4ymncUbOS7chi2hcgPkVSrQu8dEo9t1vHPfg424DkecMwQyl4HynUfhTpSD3QhKajdbAtYJvEp4MaNjz55WLGtpVoN_pJIj95h5e3Q77AUyL8wUSyD1RoMMszMTNEFewjlPO1XDzpfWtHm7Zvvo-3gHQp02fUZWE4WeAVcE5uv1xsgr0yymw-NcwxZfk8qAa-zn7FHAsib97aYmYrx5ResdBQ&authuser=0&nonce=q462d3revdte4&user=05842312852694481996&hash=f4smbrpno4df5kastldn9qvdnn6ourpp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saileshrokaya&label=Profile%20views&color=0e75b6&style=flat" alt="saileshrokaya" /> </p>
 
