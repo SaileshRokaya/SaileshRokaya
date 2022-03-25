@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGOAzcqy0t7yg/profile-displaybackgroundimage-shrink_350_1400/0/1609745492871?e=1653523200&v=beta&t=AMCsl2p0ZRd7YnZr7DPnIVL6TcRhbA3DL5sGarnOJ9s)](http://www.saileshrokaya.com.np/)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E1BAQFtZmXluF756g/company-background_10000/0/1645946056807?e=1648267200&v=beta&t=rXnW1KLQ6LRGZkzNz7UqiE43qQQbU4mI4vDLr7GsRPM)](http://www.saileshrokaya.com.np/)
 <h1 align="center">Hi 👋, I'm Sailesh Rokaya</h1>
 <h3 align="center">A passionate Full Stack developer from Nepal</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saileshrokaya&label=Profile%20views&color=0e75b6&style=flat" alt="saileshrokaya" /> </p>
@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="350" height="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-<img align="left" alt="img" width="350" height="400" src="https://media-exp1.licdn.com/dms/image/C4E1BAQFtZmXluF756g/company-background_10000/0/1645946056807?e=1648267200&v=beta&t=rXnW1KLQ6LRGZkzNz7UqiE43qQQbU4mI4vDLr7GsRPM">
+<img align="left" alt="img" width="350" height="400" src="https://scontent.fktm8-1.fna.fbcdn.net/v/t1.6435-9/120195651_1259618814391079_1605304003004525236_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=INQwjjkHymYAX_ql3OC&_nc_oc=AQlBm_au93T_1WgWfnMebCK-_KLfnl96tUa0PrAkLi1oIZ3D7zG8PHnWMlqJ7nJDJ2o&_nc_ht=scontent.fktm8-1.fna&oh=00_AT95kFmIzp13WOP3NN7lwBS0p9pD2wGeVIDC7BE_bdsMVA&oe=62617C3F">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saileshrokaya" alt="saileshrokaya" /></a> </p>
