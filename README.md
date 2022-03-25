@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="350" height="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-<img align="left" alt="img" width="350" height="400" src="https://scontent.fktm14-1.fna.fbcdn.net/v/t1.6435-9/120195651_1259618814391079_1605304003004525236_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=326a19bUBF0AX_lzKLU&_nc_oc=AQkTWSAZiplRAUt1I39irNVEdjPFlTzXwvZJfbLFydAYH8ECZ6gO8EeyJIlRv9bJRbo&_nc_ht=scontent.fktm14-1.fna&oh=00_AT_7G4CLhkqOo1szgTf2yEoIy1L53J__Gz73uTPBHk54pw&oe=625D87BF">
+<img align="left" alt="img" width="350" height="400" src="https://media-exp1.licdn.com/dms/image/C4E1BAQFtZmXluF756g/company-background_10000/0/1645946056807?e=1648267200&v=beta&t=rXnW1KLQ6LRGZkzNz7UqiE43qQQbU4mI4vDLr7GsRPM">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saileshrokaya" alt="saileshrokaya" /></a> </p>
