@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **T4U**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [http://www.saileshrokaya.com.np/](http://www.saileshrokaya.com.np/)
 
