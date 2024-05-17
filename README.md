@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saileshrokaya" alt="saileshrokaya" /></a> </p>
 
-- 🔭 I’m currently working on **T4U**
+- 🔭 I’m currently working on **Ticketing System**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React Native with TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://www.saileshrokaya.com.np/](http://www.saileshrokaya.com.np/)
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **TypeScript and JavaScript**
 
 - 📫 How to reach me **saileshrokaya123@gmail.com**
 
 - 📄 Know about my experiences [http://www.saileshrokaya.com.np/resume.html](http://www.saileshrokaya.com.np/resume.html)
 
-- ⚡ Fun fact **Besides wirtting codes 💻, I love to travel 🚌, listen to music 🎵, and take pictures to create memories 📸. If not found doing above things you can always find me sleeping.😴**
+- ⚡ Fun fact **Besides wirtting codes 💻, I love to travel 🚌, listen to music 🎵, and take pictures to create memories 📸. If not found doing the above things you can always find me sleeping.😴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
